@@ -1,0 +1,18 @@
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\bin\Debug\net7.0-windows\Classificação imc.exe
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\bin\Debug\net7.0-windows\Classificação imc.deps.json
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\bin\Debug\net7.0-windows\Classificação imc.runtimeconfig.json
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\bin\Debug\net7.0-windows\Classificação imc.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\bin\Debug\net7.0-windows\Classificação imc.pdb
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\Classificação imc.csproj.AssemblyReference.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\Classificação_imc.Form1.resources
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\Classificação imc.csproj.GenerateResource.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\Classificação imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\Classificação imc.AssemblyInfoInputs.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\Classificação imc.AssemblyInfo.cs
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\Classificação imc.csproj.CoreCompileInputs.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\Classificação imc.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\refint\Classificação imc.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\Classificação imc.pdb
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\Classificação imc.genruntimeconfig.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\ref\Classificação imc.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\Visual Studio 2022\Classificação imc\Classificação imc\obj\Debug\net7.0-windows\Classificação_imc.Properties.Resources.resources

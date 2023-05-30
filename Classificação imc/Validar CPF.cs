@@ -2,8 +2,8 @@
 using System.Windows.Forms;
 public static class Validacoes
 {
-    public static bool ValidaCPF(string cpf)
-    {
+    public static bool ValidaCPF(string cpf)// validar
+    {       
         cpf = cpf.Replace(".", "");//Remove os pontos do Cpf
         cpf = cpf.Replace("-", "");//Remove o traço do Cpf
 
